@@ -13,4 +13,6 @@ int checkout(){
 }
 int test2(){
 	return 1;
+int test(){
+	return 0;
 }
