@@ -8,3 +8,6 @@ int count(){
 	return 0;
 	return 1;
 }
+int checkout(){
+	return true;
+}
