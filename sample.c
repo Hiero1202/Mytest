@@ -11,3 +11,6 @@ int count(){
 int checkout(){
 	return true;
 }
+int test(){
+	return 0;
+}
